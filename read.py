@@ -1,7 +1,7 @@
 import cv2 as cv
 
 # to read images
-img = cv.imread("photos/cat.jpg")
+img = cv.imread("photos/cat_large.jpg")
 
 # to display images
 cv.imshow('c',img)
